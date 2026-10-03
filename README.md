@@ -7,8 +7,8 @@ Official research repository for my M.Sc. thesis: Comparative Analysis of Interp
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Official Research Codebase for Master's Thesis**  
-> *Author:* [Your Name]  
-> *Institution:* Ferhat Abbas University Setif 1, Faculty of Technology, Department of Electronics  
+> *Author:* Soumia Dahel, Amina Maabed, Supervisor: Pr Chafia Kara-Mohamed  
+> *Institution:* Ferhat Abbas University Setif 1, Faculty of Science, Department of Computer Science  
 
 ---
 
